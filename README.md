@@ -1,6 +1,6 @@
 # Data Logger & Charts
 
-A lightweight, flexible WordPress plugin that records token holder data (or any custom metric) and displays it beautifully with an adaptive Chart.js line chart. Perfect for landing pages and analytics..
+A lightweight, flexible WordPress plugin that records token holder data (or any custom metric) and displays it beautifully with an adaptive Chart.js line chart. Perfect for landing pages and analytics.
 
 ![WordPress Plugin Version](https://img.shields.io/badge/plugin-v1.5-blue)
 ![WordPress Tested](https://img.shields.io/badge/tested-6.5%2B-brightgreen)
