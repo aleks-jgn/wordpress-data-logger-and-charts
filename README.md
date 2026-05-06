@@ -8,6 +8,12 @@ A lightweight, flexible WordPress plugin that records token holder data (or any 
 
 ---
 
+## ✨ DEMO
+
+[Plugin Demo URL](https://alex555764-wordpress-cvqrq.tw1.ru/)
+
+---
+
 ## ✨ Features
 
 - **Two Data Sources** – Automatic daily API fetching or manual JSON file.
